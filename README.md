@@ -1,6 +1,6 @@
 ![Miguel Sevilla — Software, cybersecurity and systems](https://raw.githubusercontent.com/sevillaa/sevillaa/3dc4a6e8679e1452ae97c5ecfb5723ecbfe51920/assets/profile-header.svg)
 
-I'm a final-year Computer Science student at **Universidad Complutense de Madrid (UCM)**, interested in cybersecurity and systems. I'm open to **software engineering roles and internships**.
+I'm a final-year Computer Science student at **Universidad Complutense de Madrid (UCM)**, interested in software engineering, cybersecurity and systems.
 
 ### University team projects
 
