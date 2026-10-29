@@ -1,4 +1,4 @@
-![Miguel Sevilla — Software engineering, systems and cloud](https://raw.githubusercontent.com/sevillaa/sevillaa/main/assets/profile-header.svg)
+![Miguel Sevilla — Software engineering, systems and cloud](https://raw.githubusercontent.com/sevillaa/sevillaa/main/assets/profile-header.svg?v=2)
 
 I'm a final-year **Computer Science student at Universidad Complutense de Madrid**, looking for **summer Software Engineering internships**.
 
