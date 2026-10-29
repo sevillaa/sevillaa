@@ -1,32 +1,27 @@
-![Miguel Sevilla — Software engineering, systems and cloud](https://raw.githubusercontent.com/sevillaa/sevillaa/604bf835c6e8538d00965693cac66614ec81435f/assets/profile-header.svg)
+![Miguel Sevilla — Software, cybersecurity and systems](https://raw.githubusercontent.com/sevillaa/sevillaa/3dc4a6e8679e1452ae97c5ecfb5723ecbfe51920/assets/profile-header.svg)
 
-I'm a final-year **Computer Science student at Universidad Complutense de Madrid**, looking for **summer Software Engineering internships**.
+I'm a final-year Computer Science student at **Universidad Complutense de Madrid (UCM)**, looking for a **summer software engineering internship**. I'm interested in cybersecurity and systems.
 
-My interests span software development, systems and cloud engineering. This profile brings together my academic team projects, algorithm practice and current final-year work.
+### University team projects
 
-### Selected projects
-
-**[Bistro FDI ↗](https://github.com/sevillaa/AW)**  
+**[Bistro FDI](https://github.com/sevillaa/AW)**  
 `PHP` `MySQL` `JavaScript`
 
-Restaurant web application with user roles, a product catalogue, a shopping cart and an order workflow for customers, kitchen staff and waiters.
+A restaurant web app with user roles, a product catalogue, a cart and order management.
 
-**[Call-Eat ↗](https://github.com/sevillaa/Call-Eat)**  
+**[Call-Eat](https://github.com/sevillaa/Call-Eat)**  
 `Java 17` `Swing` `Jackson` `JUnit 5`
 
-Restaurant management desktop application with a layered architecture, JSON persistence and JUnit tests.
+A restaurant management desktop app with a layered architecture, JSON storage and JUnit tests.
 
-*Both are academic team projects. Their repositories describe the architecture, functionality and project context.*
+### What I'm working on
 
-### Currently building
+**[Red-Queen](https://github.com/sevillaa/Red-Queen) · Final-year project**  
+We've just started this project on adaptive cybersecurity training. My part will focus on the learner model and how the training adapts to each student.
 
-**[Red-Queen ↗](https://github.com/sevillaa/Red-Queen) · Final-year project**  
-An early-stage adaptive cybersecurity training project. Initial experiments include a document-based Networks and Security tutor. My planned focus is learner modelling and learning adaptation.
+I'm also getting a **DevOps course project** ready to share.
 
-**DevOps learning project**  
-A course-based project currently being prepared for publication.
+### Algorithms and data structures
 
-### Problem solving
-
-[C++ exercises](https://github.com/sevillaa/LeetCode) · [Data structures](https://github.com/sevillaa/Estructuras-de-Datos)
+[C++ practice](https://github.com/sevillaa/LeetCode) · [Data structures coursework](https://github.com/sevillaa/Estructuras-de-Datos)
 
