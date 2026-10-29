@@ -18,13 +18,10 @@
   <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
   <rect width="1280" height="320" rx="16" fill="url(#grid)"/>
   <path d="M0 319 H1280" stroke="url(#line)" stroke-width="2"/>
-  <rect x="48" y="56" width="4" height="207" rx="2" fill="#6fe0c2"/>
+  <rect x="48" y="74" width="4" height="170" rx="2" fill="#6fe0c2"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
-    <text x="78" y="84" fill="#94a8c4" font-size="14" font-weight="600" letter-spacing="3">COMPUTER SCIENCE / FINAL YEAR</text>
-    <text x="75" y="163" fill="#f0f5fc" font-size="65" font-weight="700" letter-spacing="-2">Miguel <tspan fill="#6fe0c2">Sevilla</tspan></text>
-    <text x="78" y="211" fill="#c4d0e1" font-size="22" font-weight="400">Software engineering · Systems · Cloud</text>
-    <circle cx="85" cy="254" r="4" fill="#6fe0c2"/>
-    <text x="101" y="259" fill="#a8b9d0" font-size="14" letter-spacing="1.1">SEEKING SUMMER INTERNSHIPS</text>
+    <text x="75" y="153" fill="#f0f5fc" font-size="76" font-weight="700" letter-spacing="-2">Miguel <tspan fill="#6fe0c2">Sevilla</tspan></text>
+    <text x="78" y="216" fill="#c4d0e1" font-size="38" font-weight="400">Software · Systems · Cloud</text>
   </g>
   <g transform="translate(884,52)" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M0 107 H60 M180 107 H274 M120 47 V16 H274 V47 M120 167 V197 H274 V167" stroke="#3d5875" stroke-width="1.5"/>
